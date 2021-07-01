@@ -10,6 +10,6 @@ const CONFIG = {
     btnReply: 'Gửi cho Phước <3',
     reply: 'Tại Phước đáng yêu quá đó',
     mess: 'Tui biết mà 🥰. Yêu Nga nhiều nhiều 😘😘',
-    messDesc: 'Cái quan trọng nè ngày mai Nga thi tốt nhé ❤️❤️',
+    messDesc: 'Cái quan trọng nè ngày mai Nga thi thật tốt nhé.❤️❤️',
     btnAccept: 'Okeeee la ',
 }
